@@ -20,5 +20,6 @@
   "homepage": "https://github.com/metacmm/starwarsapp-2019#readme",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {}
 }
